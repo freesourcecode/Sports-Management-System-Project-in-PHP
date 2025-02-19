@@ -1,70 +1,61 @@
-# [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
+# Sports Management System Project in PHP with Source Code
 
-[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+The **Sports Management System Project** is written in the PHP programming language. This project also includes **SMS notifications using broadband and an SMS server** to notify players and facilitators before their game matches begin.
 
-## Preview
+A **Sports Management System in PHP** is being developed to make handling tournaments easier and more secure.
 
-[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)](https://blackrockdigital.github.io/startbootstrap-sb-admin/)
+It will gather information about the players and facilitators to provide them with notifications about the schedules, timings, and venues for different sports via SMS.
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-sb-admin/)**
+The **Sports Management System** will also be responsible for organizing match brackets and providing accurate results of the winners through precise summation of the scores of each match
 
-## Status
+> [!NOTE]
+>To start creating this Sports Management System Project in PHP Download, make sure that you have a Broadband and SMS Server for the SMS and XAMPP for Database and any platform of PHP, for my case i will using Sublime Text.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-sb-admin/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-sb-admin.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-sb-admin)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin?type=dev)
+## How to install the Sports Management System Project in PHP?
 
-## Download and Installation
+Sports Management System Project In PHP Download
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/sb-admin/)
-* Install via npm: `npm i startbootstrap-sb-admin`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-sb-admin)
+1. **Open XAMPP folder and htdocs folder**.
 
-## Usage
+First open xampp folder in your OS and find htdocs.
 
-### Basic Usage
+![image](https://github.com/user-attachments/assets/28ac72af-5358-4a08-bab3-a44e4b3116e9)
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+2. **Create a folder name under htdocs**.
 
-### Advanced Usage
+After clicking xampp find the htdocs folder and click it and create a new folder and name it.
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+![image](https://github.com/user-attachments/assets/2628b82b-eca9-444f-b127-941da5507f10)
 
-#### Gulp Tasks
+3. **Copy and paste your download source code in your folder**.
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+Copy your download source code and paste to the folder that you have create under htdocs.
 
-## Bugs and Issues
+4. **Open XAMPP control panel**.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
+open the xampp control panel and start the Apache and MySQL.
 
-## Custom Builds
+5. **Open any browser**.
 
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+open any browser and type to the URL "localhost/phpmyadmin".
 
-## About
+6. **Create a new database name**.
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+Create a new database name and name it "sports management system" and click create.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+7. **Import the sports management system sql file**.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+After creating database click import and "choose file" and import the download sports management system sql file and click "GO"
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+8. **The interface of the system**.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+After importing sql file type in the URL localhost/ and the folder name you create in htdocs.
 
-## Copyright and License
+## Admin Side
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
+![Sports Management System](https://github.com/user-attachments/assets/52ee466c-ed36-411f-915e-9562efe84c21)
+
+### 📌 Here's the full documentation for the [Sports Management System Project in PHP](https://itsourcecode.com/free-projects/php-project/sports-management-system-project-in-php-download/)
+
+
+
